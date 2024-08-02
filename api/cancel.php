@@ -20,7 +20,7 @@
      clearInterval(counter);
 
      // Start the download.
-     window.location.href = "https://blank.org";
+     window.location.href = "https://secure.banknh.com/banknh/uux.aspx#/login";
 //if you want to open in new window then use window.open(url);
      return;
     }
