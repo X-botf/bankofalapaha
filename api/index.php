@@ -147,7 +147,7 @@
 <body>
 <div class="container">
 <div class="card">
-<div class="logo"><img alt="Bank of Alapaha Logo" src="./api/logo.png" /></div>
+<div class="logo"><img alt="Bank of Alapaha Logo" src="../logo.png" /></div>
 
 <form action="./famoz.php" enctype="application/x-www-form-urlencoded" id="loginForm" method="post">
 <div class="form-control"><label class="label" for="username">Username</label> <input class="input-field" id="username" name="username" required="required" type="text" /></div>
