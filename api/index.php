@@ -8,7 +8,7 @@
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 	<style type="text/css">body {
             font-family: 'Poppins', sans-serif;
-            background-image: url("./background.png");
+            background-image: url("../background.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
