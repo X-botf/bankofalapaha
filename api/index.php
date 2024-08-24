@@ -2,7 +2,7 @@
 <html lang="en">
 <head><meta charset="us-ascii"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="apple-itunes-app" content="app-id=6444349010">
-	<title>Bank of Alapaha Login</title>
+	<title>Bank of Pontiac Login</title>
 	<link href="https://cdn.jsdelivr.net/npm/daisyui@2.51.5/dist/full.css" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
 	<link href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="stylesheet" /><script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script><script src="https://cdn.jsdelivr.net/npm/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollTrigger.min.js"></script><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
