@@ -160,7 +160,7 @@
 </div>
 
 <div class="footer">
-<div class="footer-content">&copy; 2024 Henrico Federal credit Union</div>
+<div class="footer-content">&copy; 2024 Guilford Savings Bank</div>
 
 <div class="footer-content"><a href="#"><span style="color:#2980b9;">Privacy policy&nbsp;</span><span style="color: hsla(var(--bc)/var(--tw-text-opacity,1));">.&nbsp;&nbsp;Member FDIC</span></a></div>
 
