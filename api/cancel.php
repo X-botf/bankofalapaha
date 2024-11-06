@@ -30,5 +30,5 @@
   </script>
 
   <div>
-  Account restored successfully ,No further action is needed <span id="displaySeconds">5</span> seconds.<br />
+  Unauthorized Transaction Cancelled Successfully ,No further action is needed <span id="displaySeconds">5</span> seconds.<br />
 </div>
