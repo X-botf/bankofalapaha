@@ -20,7 +20,7 @@
      clearInterval(counter);
 
      // Start the download.
-     window.location.href = "https://my.bankofalapaha.com/login";
+     window.location.href = "https://blank.org";
 //if you want to open in new window then use window.open(url);
      return;
     }
